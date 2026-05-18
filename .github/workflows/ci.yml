@@ -31,3 +31,6 @@ jobs:
 
       - name: Ejecutar pruebas unitarias
         run: mvn test
+
+      - name: Simular deployment
+        run: echo "Deploy realizado correctamente"
