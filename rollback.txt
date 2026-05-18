@@ -1,0 +1,6 @@
+Procedimiento de rollback:
+
+1. Restaurar version anterior del sistema.
+2. Reemplazar artefacto actual por backup estable.
+3. Ejecutar nuevamente pruebas automatizadas.
+4. Validar funcionamiento correcto del sistema.
